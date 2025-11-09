@@ -1,6 +1,7 @@
 Readme:
-包含棋类游戏和动画游戏。在文件夹运行gamechoice.py即可弹出选择界面。
+This project, developed in 2022, includes two games — a board game (Gomoku) and an animation-based throwing game — both implemented using Python graphics.
 
-Group Member: 
-李苒萱 2021312355 信息学院大数据21班
-喻颖 2021312372 信息学院大数据21班
+To start the program, simply run gamechoice.py in the project folder;
+Then a selection interface will appear, allowing you to choose which game to play.
+
+All game images and assets were hand-drawn by myself, giving the project a unique and personalized visual style.
